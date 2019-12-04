@@ -5,9 +5,11 @@ Discription:A simple program to welcome new users.
 */
 #include<stdio.h>  
 
-int t=8;
+int t=0;
+char name[100];
 int main()
 {
-    scanf("%d",&t);
-    printf("Hellow Worlds %d",t);
+    printf("Enter your name and a number :\n");
+    scanf("%s %d",name,&t);
+    printf("Hellow %s,you entered %d",name,t);
 }
