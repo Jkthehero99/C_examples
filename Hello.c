@@ -1,5 +1,5 @@
 #include<stdio.h>  
-int t;
+int t=8;
 int main()
 {
     scanf("%d",&t);
