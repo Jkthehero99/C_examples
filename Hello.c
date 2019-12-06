@@ -1,7 +1,7 @@
 /* 
 Author:B.Jai Krishna
 Init Date:4-12-19
-Discription:A simple program to welcome new users.
+Description:A simple program to welcome new users.
 */
 #include<stdio.h>  
 
